@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1ZCvOjfN1H8fLEz8/v6ZWMdSsHresnu9jQB8aZ7utCk0L7X1aJ5VccINswxL/U6kG7/UavnXdkt0KSanSNPMw==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\EuvicCamp2022_API_RejestracjaKlienta\\ForeginClientsAPI\\ForeginClientsAPI\\ForeginClientsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\czech\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\czech\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\czech\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\czech\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\czech\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\czech\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\czech\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
